@@ -20,3 +20,13 @@
     padding: 12px 0;
     color: white;
 }
+
+@media(max-width:600px){
+
+  .crud-app th,
+  .crud-app td{
+    font-size:12px;
+    padding:6px;
+  }
+
+}
