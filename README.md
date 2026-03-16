@@ -87,4 +87,4 @@ main.jsx
 Jawad Zia
 MERN Stack Developer (Self-taught)
 
-GitHub: https://github.com/jawadgit23/Student-CRUD-App
+GitHub: https://github.com/jawadgit23/
