@@ -7,7 +7,7 @@ Users can add, edit, delete, and search students with a modern drawer-based UI.
 
 ## Live Demo
 
-https://joyful-unicorn-9754ab.netlify.app/
+https://student-management-9754ab.netlify.app/
 
 ---
 
